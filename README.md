@@ -1,7 +1,7 @@
 # App Proposal
 
 **App link :**
-https://custom-recipe-generator-1.ankita459.repl.co
+https://app.textify.ai/apps/custom-recipe-generator
 
 **Rationale**
 
